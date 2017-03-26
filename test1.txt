@@ -1,0 +1,10 @@
+ Volume in drive F is New Volume
+ Volume Serial Number is 40C0-58EB
+
+ Directory of F:\MyGitProject
+
+26-03-2017  10:48    <DIR>          .
+26-03-2017  10:48    <DIR>          ..
+26-03-2017  10:48                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  68,576,817,152 bytes free
